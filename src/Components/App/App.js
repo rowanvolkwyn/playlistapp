@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends React.Component {
-  .render() {
+  render() {
     return (
       <div>
         <h1>Ja<span className="highlight">mmm</span>ing</h1>
