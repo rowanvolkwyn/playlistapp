@@ -1,7 +1,7 @@
 import React from "react";
-import "./TrackList.css";
+import "./Tracklist.css";
 
-export class TrackList extends React.Component {
+export default class TrackList extends React.Component {
     render() {
         return (
             <div class="TrackList">
